@@ -1,0 +1,13 @@
+title: Résumé
+baseurl: "/resume/"
+icon: 🔬 # the emoji used as the favicon
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-crisp-minimal-resume.gemspec
+  - /script
+  - /screenshots
+  - /fixtures
+  - Rakefile
